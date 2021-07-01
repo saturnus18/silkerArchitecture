@@ -280,7 +280,7 @@ img.logo{
 
 /*fifth-section*/
 .bg-fifth-block{
-  background: url(../img/13.jpg)center center no-repeat;
+  background: url(../img/13.jpg)center right no-repeat;
   background-size: cover;
   padding: 200px 0px;
 }
